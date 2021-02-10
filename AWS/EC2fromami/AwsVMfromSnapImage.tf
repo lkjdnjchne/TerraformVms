@@ -3,7 +3,7 @@
 variable "ami_id" {
   description = "The id of your ami"
   default     = ""
-}
+}tst
 
 variable "vpc_id" {
   description = "The ID of your desired VPC"
